@@ -1,6 +1,6 @@
 # Path Following Simulation in 2D
 
-![Visualization of Path Following](img/pathFollowing.png)
+![Visualization of Path Following](img/pathfollowing.png)
 
 ## Overview
 This repository enables users to simulate a Remotely Operated Vehicle (ROV) navigating along a predefined 2D path. The path-following algorithm is based on the seminal paper by L. Lapierre and A. Pascoal: *"Nonsingular Path Following Control of a Unicycle in the Presence of Parametric Modelling Uncertainties".*
@@ -26,7 +26,7 @@ With this simulation tool, you can:
 1. Clone this repository:
    ```bash
    git clone <repository_url>
-   cd pathFollowing2DPython
+   cd pathfollowing2DPython
    ```
 
 2. Install the required dependencies:
@@ -47,12 +47,12 @@ With this simulation tool, you can:
 
 #### Initial Path Following Visualization:
 - Observe the initial setup and trajectory plan:
-![Path Following Visualization](img/pathFollowing.png)
+![Path Following Visualization](img/pathfollowing.png)
 
 #### Robot Joining the Path:
 - The ROV begins by navigating towards the path before following it:
-![Joining the Path - Step 1](img/pathFollowing2.png)
-![Joining the Path - Step 2](img/pathFollowing3.png)
+![Joining the Path - Step 1](img/pathfollowing2.png)
+![Joining the Path - Step 2](img/pathfollowing3.png)
 
 ---
 
