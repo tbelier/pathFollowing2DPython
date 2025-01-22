@@ -17,7 +17,6 @@ With this simulation tool, you can:
 ## Features
 - **Path Following Simulation:** Observe the ROV joining and following a predefined path.
 - **2D Visualization:** Visualize the robot's trajectory and path.
-- **Dynamic Behavior Analysis:** Analyze the robot's approach and adherence to the trajectory.
 - **Reference Paper:** Implementation inspired by a robust path-following control approach for unicycle models.
 
 ---
