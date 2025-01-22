@@ -5,7 +5,7 @@
 ## Overview
 This repository enables users to simulate a Remotely Operated Vehicle (ROV) navigating along a predefined 2D path. The path-following algorithm is based on the seminal paper by L. Lapierre and A. Pascoal: *"Nonsingular Path Following Control of a Unicycle in the Presence of Parametric Modelling Uncertainties".*
 
-To create the paths used in this simulation, refer to my [trajectoryMaker](https://github.com/yourusername/trajectoryMaker) repository.
+To create the paths used in this simulation, refer to my [trajectoryMaker](https://github.com/tbelier/trajectoryMaker) repository.
 
 With this simulation tool, you can:
 - Simulate an ROV following a given trajectory.
